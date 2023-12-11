@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Data Science**
 - 🎓 Currently Pursuing **Computer Science Engineeing**
 - 💻 I find joy in the journey of **continuous learning**
 - 📫 How to reach me **amb120@nist.edu**
