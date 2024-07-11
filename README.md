@@ -7,10 +7,7 @@
 - 💻 I find joy in the journey of **continuous learning**
 - 📫 How to reach me: **amb120@nist.edu**
 
-<h3 align="left">Profile Views:</h3>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ananyamohapatra20&label=Profile%20views&color=0e75b6&style=flat" alt="ananyamohapatra20" />
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
